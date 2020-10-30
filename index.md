@@ -9,9 +9,9 @@ Empresa: Softek
 
 --------------------------
 
-Una empresa de tecnología especializada en brindar servicios de desarrollo de software y TI tiene su sede en México, pero también abarca otras regiones de Asia, Europa y América Latina.1 
+Una empresa de tecnología especializada en brindar servicios de desarrollo de software y TI tiene su sede en México, pero también abarca otras regiones de Asia, Europa y América Latina.[1] 
 
-El modelo IoT presentado en 2017 está basado en una app “Softek BlauLabs” un centro de investigación que trabaja en el análisis de datos para generar soluciones pre-configuradas con enfoque en sustentabilidad.2
+El modelo IoT presentado en 2017 está basado en una app “Softek BlauLabs” un centro de investigación que trabaja en el análisis de datos para generar soluciones pre-configuradas con enfoque en sustentabilidad.[2]
 
 La problemática que resuelve la app es el monitoreo en tiempo real del uso y gasto de los servicios públicos como agua, gas, energía eléctrica, etc. con el fin de brindar estadísticas que permitan evaluar cuándo y en qué se genera mayor desperdicio y aplicar las soluciones que brinda el sistema ante ello. La propuesta de valor de esto es que permite una mejor gestión y administración de energía y el resto de los recursos tanto en empresas, industrias como hogares: “blauLabs tiene un historial de ayudar a clientes a producir ahorros entre el 10 y el 25% en su gasto anual en servicios públicos.”2 (Softek, 2017)
 
@@ -26,11 +26,11 @@ Empresa: Atomiton
 
 --------------------------
 
-Atomiton es una empresa dedicada a la eficiencia en el sector industrial, mediante el uso del IoT, siendo que esa rama es conocida como IIoT (Industrial Internet of Things). Permitiendo a empresas que manejan maquinaria, poseer un mayor panorama respecto al funcionamiento de sus elementos y, mediante analítica predictiva, conducir a mayor sustentabilidad en múltiples aspectos.4
+Atomiton es una empresa dedicada a la eficiencia en el sector industrial, mediante el uso del IoT, siendo que esa rama es conocida como IIoT (Industrial Internet of Things). Permitiendo a empresas que manejan maquinaria, poseer un mayor panorama respecto al funcionamiento de sus elementos y, mediante analítica predictiva, conducir a mayor sustentabilidad en múltiples aspectos.[4]
 
-El Atomiton Operating Stack (A-Stack™) es el sistema operativo que proporciona la empresa, el cual funciona en dispositivos edge, así como en la nube; permitiendo al usuario digitalizar sus bienes y procesos industriales, optimizando resultados.4
+El Atomiton Operating Stack (A-Stack™) es el sistema operativo que proporciona la empresa, el cual funciona en dispositivos edge, así como en la nube; permitiendo al usuario digitalizar sus bienes y procesos industriales, optimizando resultados.[4]
 
-La plataforma conecta “cosas” u “objetos” y permite su interacción con diversas aplicación o entre ellos mismos, teniendo por ejemplo dispositivos, sensores y/o equipo técnico en constante conectividad. Asimismo, el sistema presenta modelos que representan y simulan entidades del mundo físico, permitiendo ver su estado pasado, presente o a futuro; permitiendo al sistema percibir y predecir con fines de generar respuestas que optimicen en tiempo real. Otros problemas que pueden llegar a resolver, es la coordinación de procesos y maquinaria, así como facilitar tareas que involucran cálculos complejos de manera más exacta y conociendo de manera más directa la situación general del sistema industrial.5
+La plataforma conecta “cosas” u “objetos” y permite su interacción con diversas aplicación o entre ellos mismos, teniendo por ejemplo dispositivos, sensores y/o equipo técnico en constante conectividad. Asimismo, el sistema presenta modelos que representan y simulan entidades del mundo físico, permitiendo ver su estado pasado, presente o a futuro; permitiendo al sistema percibir y predecir con fines de generar respuestas que optimicen en tiempo real. Otros problemas que pueden llegar a resolver, es la coordinación de procesos y maquinaria, así como facilitar tareas que involucran cálculos complejos de manera más exacta y conociendo de manera más directa la situación general del sistema industrial.[5]
 
 ![Image](https://www.atomiton.com/assets/images/product_page/A-Stack%20Architecture.png)
 
@@ -43,11 +43,11 @@ Empresa: Disney
 
 --------------------------
 
-Para mejorar la experiencia de los clientes en los parques disney crearon unos brazaletes llamados “Magic Bands”, van en la muñeca y con ellos puedes acceder a todas las opciones del parque.6
+Para mejorar la experiencia de los clientes en los parques disney crearon unos brazaletes llamados “Magic Bands”, van en la muñeca y con ellos puedes acceder a todas las opciones del parque.[6]
 
-Algunas de las facilidades que esta da es el no tener que cargar dinero, todo se puede pagar con la misma pulsera enlazando previamente una tarjeta de crédito, no es necesario esperar largas filas y las fotos tomadas se cargan automáticamente. Además de esto cada brazalete tiene localizador para así saber en todo momento donde se encuentran  familiares o amigos.7 
+Algunas de las facilidades que esta da es el no tener que cargar dinero, todo se puede pagar con la misma pulsera enlazando previamente una tarjeta de crédito, no es necesario esperar largas filas y las fotos tomadas se cargan automáticamente. Además de esto cada brazalete tiene localizador para así saber en todo momento donde se encuentran  familiares o amigos.[7] 
 
-Al crear este dispositivo se solucionaron problemas que hacían estresante o cansada la visita de las personas a los parques además de proveer a disney una gran cantidad de datos que usan a su favor para mejorar logística o distribuir espacios.8
+Al crear este dispositivo se solucionaron problemas que hacían estresante o cansada la visita de las personas a los parques además de proveer a disney una gran cantidad de datos que usan a su favor para mejorar logística o distribuir espacios.[8]
 
 ![Image](http://www.tecnomundo.net/wp-content/uploads/2014/08/magicband.jpg)
 
@@ -66,7 +66,7 @@ Además de que esta marca de autos trae grandes beneficios, como no tener que pa
 
 La función de piloto automático es el punto más grande de Tesla en cuanto a un sistema de inteligencia, pero no acaba allí, el tablero del mismo auto también es uno de los tableros más inteligentes que hay en el mercado, ya que es fácil de entender, tiene una gran pantalla, dándole más espacio para demostrar más información que un tablero de auto convencional. El tablero demuestra un gps, que te da indicaciones de como llegar a tu destino, en vez de tener palancas y botones para manipular el sistema de ventilación del auto, todo se mueve desde el tablero del auto, y también demuestra que tanta energía has gastado a lo largo de tu trayecto, donde consumiste mas, y aun mas detalles que no conocerias de cualquier otro auto.  
 
-Además de todo esto, puedes conectar tu teléfono al auto, y con esto recibes toda la información que te demuestra el auto, desde donde se encuentra, la velocidad, etc., tienes un navegador de internet incorporado al tablero, y puedes descargar aplicaciones, como youtube, o juegos directo al tablero. En pocas palabras, tomaron una tableta cualquiera, y la incorporaron directamente a un auto. 10
+Además de todo esto, puedes conectar tu teléfono al auto, y con esto recibes toda la información que te demuestra el auto, desde donde se encuentra, la velocidad, etc., tienes un navegador de internet incorporado al tablero, y puedes descargar aplicaciones, como youtube, o juegos directo al tablero. En pocas palabras, tomaron una tableta cualquiera, y la incorporaron directamente a un auto.[10]
 
 Todo esto son funciones que ya tiene Tesla incorporado, pero también hay cosas que Tesla está trabajando, que son igual de impresionantes que las anteriores. Un sistema que están trabajando ahora es que el carro siga sin algún conductor, por ahora este sistema se encuentra en pruebas, pero parece ser que es un buen sistema. Este sistema se usaría principalmente en estacionamientos, donde si estacionaste tu carros muy lejos, puedes marcar donde estas, y el carro llegará a donde se encuentre el usuario, sin uso de alguien que lo esté manejando. 
 
@@ -91,13 +91,13 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 
 ![Image](https://www.hyundai.com/content/hyundai/ww/data/news/data/2019/0000016331/image/01.jpg)
 
-======
+============================================================
 
 ## Parte 2: Modelo IoT seleccionado💡
 
 --------------------------
 
-### _BlauLabs - Empresa Softek_
+_BlauLabs - Empresa Softek_
 
 --------------------------
 
@@ -117,15 +117,15 @@ Todo el monitoreo y recolección de datos la hacen por medio de sensores como v�
 Los datos que se registran son acerca de energía, gas y el consumo de agua y proporciona gráficos de costos, indicadores, consumo, etc. Asimismo, no solo proporciona esta información, sino también tiene integrados sistemas de alertas.
 
 **f) ¿Qué estándares están implicados en este modelo y cómo se usan?**
-Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basadas en la nube, el usuario requiere de internet para su visualización en la app y más fácilmente del uso de la API.13 Por esa misma razón, el proveedor tiene acceso a los datos del cliente, no obstante cuenta con tales términos y condiciones referentes a la información proporcionada, además de las políticas de privacidad para la confidencialidad de los datos.14 En cuestión de la API basada en REST que permite usar lenguajes de Python y Java tiene ciertos lineamientos/estándares basados en la web, así como en el uso de HTTP para intercambiar información.15 
+Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basadas en la nube, el usuario requiere de internet para su visualización en la app y más fácilmente del uso de la API.13 Por esa misma razón, el proveedor tiene acceso a los datos del cliente, no obstante cuenta con tales términos y condiciones referentes a la información proporcionada, además de las políticas de privacidad para la confidencialidad de los datos.14 En cuestión de la API basada en REST que permite usar lenguajes de Python y Java tiene ciertos lineamientos/estándares basados en la web, así como en el uso de HTTP para intercambiar información.[15] 
 
+============================================================
 
 ## Parte 3: Guía rápida introductoria Github📋
 
 Git es una plataforma que permite mejorar la eficiencia en la construcción de un código en conjunto con más colaboradores.
 
 - Instalación:
-
   * Si tienes Windows se utiliza el siguiente [link](https://windows.github.com)
 
   * Si tienes MAC se utiliza el siguiente [link](https://mac.github.com)
@@ -154,14 +154,40 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
 
 - Branches:
-•        git brach: crea una nueva rama.
+  * git brach: crea una nueva rama.
 
-•        git checkout: permite mover o trasladarse a otra ramificación.
+  * git checkout: permite mover o trasladarse a otra ramificación.
 
-•        git merge: permite hacer la fusión entre ramas.
+  * git merge: permite hacer la fusión entre ramas.
 
-•        git branch -d: permite eliminar una rama.
+  * git branch -d: permite eliminar una rama.
 
+- Cambios:
+  * git log : historial de todas las confirmaciones (commit).
+
+  * git diff :  brinda los cambios no escalonados.
+
+  * git revert : crea una nueva confirmación que deshace los cambios.
+
+ 
+- Sincronizar cambios:
+  * git fetch: descarga todo el historial de la rama remota.
+
+  * git push: carga todas las confirmaciones en la rama.
+
+  * git pull: actualiza la rama local de todo lo trabajado en la remota.
+
+  * git remote add: crear una nueva conexión al repositorio remoto.
+
+ 
+
+- Rechazar:
+
+  * git reset: deshace las confirmaciones guardando los cambios git locales.
+
+  * git rebase : se establece una nueva base en la rama local.
+
+[13 y 14]
 
 
 
