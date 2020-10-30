@@ -13,6 +13,19 @@
   </tr>
 </table>
 
+<table>
+  <caption><h2>Tabla de contenidos</h2></caption>
+  <tr>
+    <td><a href="#Sección 1: Empresas identificadas con modelos IoT🏢">Sección 1: Empresas identificadas con modelos IoT🏢</a></td>
+  </tr>
+  <tr>
+    <td><a href="# Sección 2: Modelo IoT seleccionado💡">Sección 2: Modelo IoT seleccionado💡</a></td>
+  </tr>
+  <tr>
+    <td><a href="#Sección 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
+  </tr>
+</table>
+
 **Índice**
 1. [Sección 1: Empresas identificadas con modelos IoT🏢](#id1)
 2. [Sección 2: Modelo IoT seleccionado💡](#id2)
