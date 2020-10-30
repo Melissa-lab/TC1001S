@@ -1,4 +1,18 @@
 # Creación de una Aplicación - Iot 📱
+
+<table>
+  <caption><h2>Indice</h2></caption>
+  <tr>
+    <td><a href="#Parte 1: Empresas identificadas con modelos IoT🏢">Parte 1: Empresas identificadas con modelos IoT🏢</a></td>
+  </tr>
+  <tr>
+    <td><a href="#Parte 2: Modelo IoT seleccionado💡">Parte 2: Modelo IoT seleccionado💡</a></td>
+  </tr>
+  <tr>
+    <td><a href="#Parte 3: Guía rápida introductoria Github📋">Parte 3: Guía rápida introductoria Github📋</a></td>
+  </tr>
+</table>
+
 ## Parte 1: Empresas identificadas con modelos IoT🏢
 
 --------------------------
