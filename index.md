@@ -1,5 +1,5 @@
-# Creación de una Aplicación - Iot
-## Parte 1: Empresas identificadas con modelos IoT
+# Creación de una Aplicación - Iot 📱
+## Parte 1: Empresas identificadas con modelos IoT🏢
 
 --------------------------
 
@@ -91,7 +91,10 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 
 ![Image](https://www.hyundai.com/content/hyundai/ww/data/news/data/2019/0000016331/image/01.jpg)
 
-### Markdown
+
+## Parte 2: Modelo IoT seleccionado
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
