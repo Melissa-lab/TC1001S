@@ -1,5 +1,4 @@
-![GitHub Logo](file:///Users/maribelcoronado/Downloads/WhatsApp%20Image%202020-10-29%20at%2019.53.35%20(1).png)
-Format: ![Alt Text](file:///Users/maribelcoronado/Downloads/WhatsApp%20Image%202020-10-29%20at%2019.53.35%20(1).png)
+![Image Logo](file:///Users/maribelcoronado/Downloads/WhatsApp%20Image%202020-10-29%20at%2019.53.35%20(1).png)
 
 
 ## Creación de una Aplicación - Iot
