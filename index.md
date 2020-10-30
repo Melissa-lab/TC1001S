@@ -222,7 +222,7 @@ _ISO 14064:2006:_ Contiene 3 partes y un conjunto de criterios para la contabili
 
 _ISO 14065:2007:_ La norma “ISO 14065:2007: Greenhouse gases -- Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition”, ha sido desarrollada para asegurar los procesos de verificación y validación, y define requisitos para aquellas organizaciones que realicen validaciones o verificaciones de GEI. Estas organizaciones pueden realizar verificaciones de datos gestionados según la norma ISO 14064-3 o según otros criterios específicos tales como esquemas de comercio de emisiones o normas corporativas.
 
-![Image](Screen Shot 2020-10-30 at 3.15.02.png)
+![Image](https://lh3.googleusercontent.com/1QZ3vFZBzL-Z7fsZ5pEaGskFsubAXIU4pSGV-fgMmp56syFUE4hpqzmbYT2odyT9-zd3=s106)
 
 ![Image](https://lh3.googleusercontent.com/3baXAASGHGb66Nv7gcPR0MOtK70cCkw2ZP0_s6ai71yCdzTUouWxXz1f0YAT36uREQmHEg=s170)
 
