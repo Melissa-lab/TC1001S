@@ -16,7 +16,7 @@
 **Índice**
 1. [Parte 1: Empresas identificadas con modelos IoT🏢](#id1)
 2. [Parte 2: Modelo IoT seleccionado💡](#id2)
-
+3. [## Parte 3: Guía rápida introductoria Github📋](#id3)
 
 <div id='id1' />
 
@@ -114,6 +114,7 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 
 ============================================================
 <div id='id2' />
+
 ## Parte 2: Modelo IoT seleccionado💡
 
 --------------------------
@@ -141,6 +142,7 @@ Los datos que se registran son acerca de energía, gas y el consumo de agua y pr
 Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basadas en la nube, el usuario requiere de internet para su visualización en la app y más fácilmente del uso de la API.13 Por esa misma razón, el proveedor tiene acceso a los datos del cliente, no obstante cuenta con tales términos y condiciones referentes a la información proporcionada, además de las políticas de privacidad para la confidencialidad de los datos.14 En cuestión de la API basada en REST que permite usar lenguajes de Python y Java tiene ciertos lineamientos/estándares basados en la web, así como en el uso de HTTP para intercambiar información.[15] 
 
 ============================================================
+<div id='id3' />
 
 ## Parte 3: Guía rápida introductoria Github📋
 
@@ -183,6 +185,7 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
   * git branch -d: permite eliminar una rama.
 
+
 - Cambios:
   * git log : historial de todas las confirmaciones (commit).
 
@@ -190,7 +193,7 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
   * git revert : crea una nueva confirmación que deshace los cambios.
 
- 
+
 - Sincronizar cambios:
   * git fetch: descarga todo el historial de la rama remota.
 
@@ -200,7 +203,6 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
   * git remote add: crear una nueva conexión al repositorio remoto.
 
- 
 
 - Rechazar:
 
