@@ -279,7 +279,7 @@ Por ello, el hacer uso de la aplicación te permite reevaluar tu consumo, con el
 
 [Archivo.apk](https://drive.google.com/file/d/1n6p79uTDhAZqLNMJcjbgnVWQ_U8778r4/view?usp=sharing)
 
-[Archivo.aia y Archivo.apk] (http://bit.ly/DatAmba)
+[Archivo.aia y Archivo.apk](http://bit.ly/DatAmba)
 
 <div id='id7' />
 
