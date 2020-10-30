@@ -1,26 +1,32 @@
 # Creación de una Aplicación - Iot 📱
 
 <table>
-  <caption><h2>Indice</h2></caption>
+  <caption><h2>Índice</h2></caption>
   <tr>
-    <td><a href="#Parte 1: Empresas identificadas con modelos IoT🏢">Parte 1: Empresas identificadas con modelos IoT🏢</a></td>
+    <td><a href="#Sección 1: Empresas identificadas con modelos IoT🏢">Sección 1: Empresas identificadas con modelos IoT🏢</a></td>
   </tr>
   <tr>
-    <td><a href="#Parte 2: Modelo IoT seleccionado💡">Parte 2: Modelo IoT seleccionado💡</a></td>
+    <td><a href="#Sección 2: Modelo IoT seleccionado💡">Sección 2: Modelo IoT seleccionado💡</a></td>
   </tr>
   <tr>
-    <td><a href="#Parte 3: Guía rápida introductoria Github📋">Parte 3: Guía rápida introductoria Github📋</a></td>
+    <td><a href="#Sección 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
   </tr>
+    <tr>
+      <td><a href="3.1 Comandos básicos y recursos de apoyo en línea📁">3.1 Comandos básicos y recursos de apoyo en línea📁</a></td>
+    </tr>
+    <tr>
+      <td><a href="3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 ">3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 </a></td>
+    </tr>
 </table>
 
 **Índice**
-1. [Parte 1: Empresas identificadas con modelos IoT🏢](#id1)
-2. [Parte 2: Modelo IoT seleccionado💡](#id2)
-3. [## Parte 3: Guía rápida introductoria Github📋](#id3)
+1. [Sección 1: Empresas identificadas con modelos IoT🏢](#id1)
+2. [Sección 2: Modelo IoT seleccionado💡](#id2)
+3. [Sección 3: Guía rápida introductoria Github📋](#id3)
 
 <div id='id1' />
 
-## Parte 1: Empresas identificadas con modelos IoT🏢
+## Sección 1: Empresas identificadas con modelos IoT🏢
 
 --------------------------
 
@@ -70,8 +76,7 @@ Algunas de las facilidades que esta da es el no tener que cargar dinero, todo se
 
 Al crear este dispositivo se solucionaron problemas que hacían estresante o cansada la visita de las personas a los parques además de proveer a disney una gran cantidad de datos que usan a su favor para mejorar logística o distribuir espacios.[8]
 
-![Image](http://www.tecnomundo.net/wp-content/uploads/2014/08/magicband.jpg)
-
+![Image](https://www.atomiton.com/assets/images/product_page/A-Stack%20Architecture.png)
 
 --------------------------
 
@@ -112,10 +117,10 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 
 ![Image](https://www.hyundai.com/content/hyundai/ww/data/news/data/2019/0000016331/image/01.jpg)
 
-============================================================
+================================================================
 <div id='id2' />
 
-## Parte 2: Modelo IoT seleccionado💡
+## Sección 2: Modelo IoT seleccionado💡
 
 --------------------------
 
@@ -141,10 +146,12 @@ Los datos que se registran son acerca de energía, gas y el consumo de agua y pr
 **f) ¿Qué estándares están implicados en este modelo y cómo se usan?**
 Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basadas en la nube, el usuario requiere de internet para su visualización en la app y más fácilmente del uso de la API.13 Por esa misma razón, el proveedor tiene acceso a los datos del cliente, no obstante cuenta con tales términos y condiciones referentes a la información proporcionada, además de las políticas de privacidad para la confidencialidad de los datos.14 En cuestión de la API basada en REST que permite usar lenguajes de Python y Java tiene ciertos lineamientos/estándares basados en la web, así como en el uso de HTTP para intercambiar información.[15] 
 
-============================================================
+================================================================
 <div id='id3' />
 
-## Parte 3: Guía rápida introductoria Github📋
+## Sección 3: Guía rápida introductoria Github📋
+
+### 3.1 Comandos básicos y recursos de apoyo en línea📁
 
 Git es una plataforma que permite mejorar la eficiencia en la construcción de un código en conjunto con más colaboradores.
 
@@ -213,8 +220,11 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 [13 y 14]
 
 
+### 3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 
 
+_ISO 14064:2006:_ Contiene 3 partes y un conjunto de criterios para la contabilización y verificación de GEI. Las normas definen las mejores prácticas internacionales en la gestión, reporte y verificación de datos e información referidos a GEI. El uso de enfoques normalizados para la contabilización y verificación de datos de emisión aseguran que una tonelada de CO2, por ejemplo, sea siempre la misma, donde sea que se emita o se acumule
 
+_ISO 14065:2007:_ La norma “ISO 14065:2007: Greenhouse gases -- Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition”, ha sido desarrollada para asegurar los procesos de verificación y validación, y define requisitos para aquellas organizaciones que realicen validaciones o verificaciones de GEI. Estas organizaciones pueden realizar verificaciones de datos gestionados según la norma ISO 14064-3 o según otros criterios específicos tales como esquemas de comercio de emisiones o normas corporativas.
 
 
 
