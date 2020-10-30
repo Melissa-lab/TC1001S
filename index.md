@@ -1,4 +1,4 @@
-![Image Logo](https://lh3.googleusercontent.com/vzQ7ueLGJSo-qhy5DvrxY3ovZ7xkYLsnoVTfXN7T5xsM8cQE5DYEzmbD0TQSeLf8ByIp6A=s85)
+![Image Logo](https://lh3.googleusercontent.com/8DcAmLvQgEL53ozToFDryJQYP5dfN7WnQuTJzmiwptRsFpCIDyzHQeBUzvsmBUXvcdJyjm4=s85)
 
 
 ## Creación de una Aplicación - Iot
