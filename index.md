@@ -91,6 +91,7 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 
 ![Image](https://www.hyundai.com/content/hyundai/ww/data/news/data/2019/0000016331/image/01.jpg)
 
+======
 
 ## Parte 2: Modelo IoT seleccionado💡
 
@@ -125,31 +126,31 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
 - Instalación:
 
-  * Si tienes Windows se utiliza el siguiente link: https://windows.github.com
+  * Si tienes Windows se utiliza el siguiente [link](https://windows.github.com)
 
-  * Si tienes MAC se utiliza el siguiente link: https://mac.github.com
+  * Si tienes MAC se utiliza el siguiente [link](https://mac.github.com)
 
-  * General: https://git-scm.com
+  * General el siguiente [link](https://git-scm.com)
 
 
 - Básicos:
-•        git init : Crea un repositorio vacío.
+  * git init : Crea un repositorio vacío.
 
-•        git clone : clona un repositorio que existe.
+  * git clone : clona un repositorio que existe.
 
-•        git add : organiza los cambios.
-
-•        git status : lista los archivos según su estado.
+  * git add : organiza los cambios.
+  
+  * git status : lista los archivos según su estado.
 
  
 - Configuración:
-•        git config  - global user.name : para definir el nombre del autor.
+  * git config  - global user.name : para definir el nombre del autor.
 
-•        git config  - global user.mail: para definir el correo del autor.
+  * git config  - global user.mail: para definir el correo del autor.
 
-•        git config  - global alias: crea atajos.
+  * git config  - global alias: crea atajos.
 
-•        git config - global color. ui auto : favorece para la coloración de las líneas de salida en el comando.
+  * git config - global color. ui auto : favorece para la coloración de las líneas de salida en el comando.
 
 
 - Branches:
