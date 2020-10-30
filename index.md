@@ -94,7 +94,11 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 
 ## Parte 2: Modelo IoT seleccionado💡
 
-_BlauLabs - Empresa Softek_
+--------------------------
+
+### _BlauLabs - Empresa Softek_
+
+--------------------------
 
 **a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?**
 Después de reevaluar por segunda ocasión consideramos que el modelo IoT que más aporte brindaba por su propuesta de valor fue Blaulabs ya que permite tener una mejor gestión de los servicios básicos como agua, luz y gas.
@@ -113,6 +117,63 @@ Los datos que se registran son acerca de energía, gas y el consumo de agua y pr
 
 **f) ¿Qué estándares están implicados en este modelo y cómo se usan?**
 Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basadas en la nube, el usuario requiere de internet para su visualización en la app y más fácilmente del uso de la API.13 Por esa misma razón, el proveedor tiene acceso a los datos del cliente, no obstante cuenta con tales términos y condiciones referentes a la información proporcionada, además de las políticas de privacidad para la confidencialidad de los datos.14 En cuestión de la API basada en REST que permite usar lenguajes de Python y Java tiene ciertos lineamientos/estándares basados en la web, así como en el uso de HTTP para intercambiar información.15 
+
+
+## Parte 3: Guía rápida introductoria Github📋
+
+Git es una plataforma que permite mejorar la eficiencia en la construcción de un código en conjunto con más colaboradores.
+
+- Instalación:
+Si tienes Windows se utiliza el siguiente link: https://windows.github.com
+
+Si tienes MAC se utiliza el siguiente link: https://mac.github.com
+
+General: https://git-scm.com
+
+
+- Básicos:
+•        git init : Crea un repositorio vacío.
+
+•        git clone : clona un repositorio que existe.
+
+•        git add : organiza los cambios.
+
+•        git status : lista los archivos según su estado.
+
+ 
+- Configuración:
+•        git config  - global user.name : para definir el nombre del autor.
+
+•        git config  - global user.mail: para definir el correo del autor.
+
+•        git config  - global alias: crea atajos.
+
+•        git config - global color. ui auto : favorece para la coloración de las líneas de salida en el comando.
+
+
+- Branches:
+•        git brach: crea una nueva rama.
+
+•        git checkout: permite mover o trasladarse a otra ramificación.
+
+•        git merge: permite hacer la fusión entre ramas.
+
+•        git branch -d: permite eliminar una rama.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
