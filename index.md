@@ -92,7 +92,7 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 ![Image](https://www.hyundai.com/content/hyundai/ww/data/news/data/2019/0000016331/image/01.jpg)
 
 
-## Parte 2: Modelo IoT seleccionado
+## Parte 2: Modelo IoT seleccionado💡
 
 _BlauLabs - Empresa Softek_
 
