@@ -248,6 +248,9 @@ Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: 
 
 <iframe width="560" height="315" src="https://youtu.be/DDv-Pgs7l5w"  allowfullscreen></iframe>
 
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/DDv-Pgs7l5w?autohide=0"  
+allowfullscreen></iframe>
 
 [![IMAGE](http://img.youtube.com/vi/DDv-Pgs7l5w/0.jpg)](http://www.youtube.com/watch?v=DDv-Pgs7l5w)
 
