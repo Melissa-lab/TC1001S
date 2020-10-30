@@ -1,9 +1,14 @@
 # Creación de una Aplicación - Iot
 ## Parte 1: Empresas identificadas con modelos IoT
+
 --------------------------
+
 Integrante: Melissa Aldana
+
 Empresa: Softek
+
 --------------------------
+
 Una empresa de tecnología especializada en brindar servicios de desarrollo de software y TI tiene su sede en México, pero también abarca otras regiones de Asia, Europa y América Latina.1 
 
 El modelo IoT presentado en 2017 está basado en una app “Softek BlauLabs” un centro de investigación que trabaja en el análisis de datos para generar soluciones pre-configuradas con enfoque en sustentabilidad.2
