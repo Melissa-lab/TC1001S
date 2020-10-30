@@ -245,13 +245,6 @@ Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: 
 
 ### 3.3 Video, párrafo explicativo, y archivos APK y AIA🔨
 
-
-<iframe width="560" height="315" src="https://youtu.be/DDv-Pgs7l5w"  allowfullscreen></iframe>
-
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/DDv-Pgs7l5w?autohide=0"  
-allowfullscreen></iframe>
-
 [![IMAGE](http://img.youtube.com/vi/DDv-Pgs7l5w/0.jpg)](http://www.youtube.com/watch?v=DDv-Pgs7l5w)
 
 DatAmb es una aplicación que ofrece un servicio con enfoque en el registro del consumo de energía anual. Trabaja con una base de datos que genera un cálculo de los gastos monetarios y de KWh, además de la huella de carbono con el objetivo de analizar y hacer conciencia sobre el impacto económico y ambiental. 
@@ -279,6 +272,11 @@ La App funciona de la siguiente manera:
 9. Aunado a esto, te despliega una serie de soluciones aplicadas a la reducción de consumo de energía.
 
 Por ello, el hacer uso de la aplicación te permite reevaluar tu consumo, con el fin de cambiar tus hábitos y generar mayor conciencia sobre tu impacto. Con ello, se logra obtener una eficiencia energética más óptima, se promueve una cultura ambiental y de ahorro, así como permite tener una reducción de la huella de carbono.
+
+[Archivo.aia]({{file name='Proyecto (1).aia'}})
+
+[Archivo.apk]({{file name='Proyecto.apk'}})
+
 
 <div id='id7' />
 
