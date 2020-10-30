@@ -218,36 +218,27 @@ _ISO 14064:2006:_ Contiene 3 partes y un conjunto de criterios para la contabili
 
 _ISO 14065:2007:_ La norma “ISO 14065:2007: Greenhouse gases -- Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition”, ha sido desarrollada para asegurar los procesos de verificación y validación, y define requisitos para aquellas organizaciones que realicen validaciones o verificaciones de GEI. Estas organizaciones pueden realizar verificaciones de datos gestionados según la norma ISO 14064-3 o según otros criterios específicos tales como esquemas de comercio de emisiones o normas corporativas.
 
+![Image](https://lh3.googleusercontent.com/Zrjc5fvFhvIwdi4HKDlxOovDGn38R6A30HtF4m4SC1hdRjYKNoBz57ibWFd3IC7BTLu0=s106)
+
+![Image](https://lh3.googleusercontent.com/3baXAASGHGb66Nv7gcPR0MOtK70cCkw2ZP0_s6ai71yCdzTUouWxXz1f0YAT36uREQmHEg=s170)
+
 La media mundial de 4 toneladas por persona, de 0.54 toneladas por año de CO2 por consumo de energía en hogares por persona.
 
+**¿Sabías que las personas expertas proponen un límite 0.24 toneladas de CO2 por consumo de energía en hogares por persona anual?**  [OMS, 2008]
+
+Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: [OMS, 2008]
+- Bajar la refrigeración: se tiene catalogado que los dispositivos con aire acondicionado consumen mucha energía.
+- Instalar buen aislamiento: reduce la entrada de calor y mantiene una temperatura más estable.
+- No meter comida caliente al refrigerador: esperar a que enfríe para no gastar más energía.
+- Apagar luces cuando no se usen: según estadísticas esto reduce el 0.4 % de toneladas de CO2.
+- Usar focos ahorradores
+- Desconectar aparatos electrónicos que no estén en uso.
+- De ser posible mudarse a energía verde y alternativas de combustibles de biomasa.
+
+¡Y verás como tu eficiencia energética y el impacto ambiental mejorará!
 
 
 
-
-
-
-
-
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
