@@ -4,6 +4,9 @@
 1. [Sección 1: Empresas identificadas con modelos IoT🏢](#id1)
 2. [Sección 2: Modelo IoT seleccionado💡](#id2)
 3. [Sección 3: Guía rápida introductoria Github📋](#id3)
+  3.1. [Comandos básicos y recursos de apoyo en línea📁](#id4)
+  3.2. [Síntesis de buenas prácticas en la industria para el uso de git y commit📁 ](#id5)
+  
 
 <div id='id1' />
 
@@ -132,6 +135,8 @@ Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basa
 
 ## Sección 3: Guía rápida introductoria Github📋
 
+<div id='id4' />
+
 ### 3.1 Comandos básicos y recursos de apoyo en línea📁
 
 Git es una plataforma que permite mejorar la eficiencia en la construcción de un código en conjunto con más colaboradores.
@@ -200,6 +205,7 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
 [13 y 14]
 
+<div id='id5' />
 
 ### 3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 
 
