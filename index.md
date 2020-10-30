@@ -19,6 +19,7 @@
 
 
 <div id='id1' />
+
 ## Parte 1: Empresas identificadas con modelos IoT🏢
 
 --------------------------
