@@ -1,6 +1,6 @@
 # Creación de una Aplicación - Iot 📱
 
-Índice
+| Índice |
 --------
 | [Sección 1: Empresas identificadas con modelos IoT🏢](#id1) |
 | [Sección 2: Modelo IoT seleccionado💡](#id2) |
