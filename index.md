@@ -218,28 +218,11 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
 ### 3.2 Síntesis de buenas prácticas en la industria🧰 
 
-_ISO 14064:2006:_ Contiene 3 partes y un conjunto de criterios para la contabilización y verificación de GEI. Las normas definen las mejores prácticas internacionales en la gestión, reporte y verificación de datos e información referidos a GEI. El uso de enfoques normalizados para la contabilización y verificación de datos de emisión aseguran que una tonelada de CO2, por ejemplo, sea siempre la misma, donde sea que se emita o se acumule
+GitHub es una página de código, donde el código puede ser editado por varias personas a la misma vez, y esto ha generado un gran impacto en la dinámica de cómo se trabajan algunos proyectos grandes de código que se hacen en equipo en empresas; un ejemplo de una empresa que hace esto es DeepSource. DeepSource es una empresa que se dedica a crear sistemas que resuelven bugs de códigos. Dicen en su página que la herramienta principal que utilizan es GitHub, y que este se ha convertido en el medio que la mayoría de los empleados trabaja, ya que es un sistema que es confiable, y más de una persona puede editar código.
 
-_ISO 14065:2007:_ La norma “ISO 14065:2007: Greenhouse gases -- Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition”, ha sido desarrollada para asegurar los procesos de verificación y validación, y define requisitos para aquellas organizaciones que realicen validaciones o verificaciones de GEI. Estas organizaciones pueden realizar verificaciones de datos gestionados según la norma ISO 14064-3 o según otros criterios específicos tales como esquemas de comercio de emisiones o normas corporativas.
-
-![Image](https://lh3.googleusercontent.com/1QZ3vFZBzL-Z7fsZ5pEaGskFsubAXIU4pSGV-fgMmp56syFUE4hpqzmbYT2odyT9-zd3=s106)
-
-![Image](https://lh3.googleusercontent.com/3baXAASGHGb66Nv7gcPR0MOtK70cCkw2ZP0_s6ai71yCdzTUouWxXz1f0YAT36uREQmHEg=s170)
-
-La media mundial de 4 toneladas por persona, de 0.54 toneladas por año de CO2 por consumo de energía en hogares por persona.
-
-**¿Sabías que las personas expertas proponen un límite 0.24 toneladas de CO2 por consumo de energía en hogares por persona anual?**  [OMS, 2008]
-
-Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: [OMS, 2008]
-- Bajar la refrigeración: se tiene catalogado que los dispositivos con aire acondicionado consumen mucha energía.
-- Instalar buen aislamiento: reduce la entrada de calor y mantiene una temperatura más estable.
-- No meter comida caliente al refrigerador: esperar a que enfríe para no gastar más energía.
-- Apagar luces cuando no se usen: según estadísticas esto reduce el 0.4 % de toneladas de CO2.
-- Usar focos ahorradores
-- Desconectar aparatos electrónicos que no estén en uso.
-- De ser posible mudarse a energía verde y alternativas de combustibles de biomasa.
-
-¡Y verás como tu eficiencia energética y el impacto ambiental mejorará!
+En la misma sección, DeepSource genero una lista de cosas que hacen sus empleados dentro de los commits para mantenerse enfocados, y comienza diciendo que es mejor enfocarse en los problemas que estas resolviendo, ya que si surgen más mientras se arregla el primero, pueden salir más, y así pasa sucesivamente hasta que se termina con tantos cambios en un solo commit; por esto si te enfocas en solo el problema será más eficiente, perderás menos tiempo y será mas sencillo para que los integrantes del equipo cambiar el código. Otro tipo que dan es que trabajes en tu commit seguido, pero en secciones pequeñas. Cuando estés trabajando, es mejor ir trabajando parte por parte, a diferencia de hacer todo el trabajo perfecto desde el inicio.
+ 
+GitHub no está diseñada solamente para ser trabajada por empresas, sino que también puede ser accesada por gente que solo busque hacer código para uso personal. El usuario Nawar Yossef nos comparte que tan solo utilizar la herramienta de GitHub por menos de un año, y dice que es su plataforma favorita de donde trabajar por lo sencilla que es, y tan bien diseñada que está. Él también nos da algunos consejos a la hora de programar, y comienza diciendo que es mejor hacer commits pequeños, de esta manera no hay tantos errores, es más fácil de manejar, y de organizar. Otro punto que nos da es que deberíamos de terminar el código antes de commit, ya que esto va en contra de lo que es el commit. 
 
 <div id='id6' />
 
