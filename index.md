@@ -19,7 +19,7 @@
 
 <div id='id1' />
 
-## Seccion 1: Empresas identificadas con modelos IoT🏢
+<h2> Seccion 1: Empresas identificadas con modelos IoT🏢 </h2>
 
 --------------------------
 
