@@ -1,7 +1,7 @@
 # Creación de una Aplicación - Iot 📱
 
 <table>
-  <caption><h2>Índice</h2></caption>
+<caption><h2>Índice</h2></caption>
   <tr>
     <td><a href="#Seccion 1: Empresas identificadas con modelos IoT🏢">Seccion 1: Empresas identificadas con modelos IoT🏢</a></td>
   </tr>
