@@ -1,18 +1,5 @@
 # Creación de una Aplicación - Iot 📱
 
-<table>
-<caption><h2>Índice</h2></caption>
-  <tr>
-    <td><a href="#Seccion 1: Empresas identificadas con modelos IoT🏢">Seccion 1: Empresas identificadas con modelos IoT🏢</a></td>
-  </tr>
-  <tr>
-    <td><a href="#Seccion 2: Modelo IoT seleccionado💡"> Sección 2: Modelo IoT seleccionado💡</a></td>
-  </tr>
-  <tr>
-    <td><a href="#Seccion 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
-  </tr>
-</table>
-
 **Índice**
 1. [Sección 1: Empresas identificadas con modelos IoT🏢](#id1)
 2. [Sección 2: Modelo IoT seleccionado💡](#id2)
@@ -70,7 +57,7 @@ Algunas de las facilidades que esta da es el no tener que cargar dinero, todo se
 
 Al crear este dispositivo se solucionaron problemas que hacían estresante o cansada la visita de las personas a los parques además de proveer a disney una gran cantidad de datos que usan a su favor para mejorar logística o distribuir espacios.[8]
 
-![Image](https://www.atomiton.com/assets/images/product_page/A-Stack%20Architecture.png)
+![Image](https://www.disneyfanatic.com/wp-content/uploads/2015/07/MagicBands1.jpg)
 
 --------------------------
 
