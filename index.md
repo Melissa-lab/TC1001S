@@ -8,6 +8,7 @@
 3. [Sección 3: Guía rápida introductoria Github📋](#id3)
 
 3.1. [Comandos básicos y recursos de apoyo en línea📁](#id4)
+
 3.2. [Síntesis de buenas prácticas en la industria para el uso de git y commit📁 ](#id5)
   
 
