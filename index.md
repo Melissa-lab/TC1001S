@@ -1,16 +1,19 @@
 # Creación de una Aplicación - Iot 📱
 
-| Índice |
---------
-| [Sección 1: Empresas identificadas con modelos IoT🏢](#id1) |
+**Índice**
+[Sección 1: Empresas identificadas con modelos IoT🏢](#id1)
 
-| [Sección 2: Modelo IoT seleccionado💡](#id2) |
+[Sección 2: Modelo IoT seleccionado💡](#id2)
 
-| [Sección 3: Guía rápida introductoria Github📋](#id3)|
+[Sección 3: Guía rápida introductoria Github💻](#id3)
 
-| [3.1 Comandos básicos y recursos de apoyo en línea📁](#id4) |
+[3.1 Comandos básicos y recursos de apoyo en línea📋](#id4)
 
-| [3.2 Síntesis de buenas prácticas en la industria📁 ](#id5) |
+[3.2 Síntesis de buenas prácticas en la industria🧰](#id5)
+
+[3.3 Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA🔨](#id6)
+
+[Sección 4: Referencias📥](#id7)
   
 
 <div id='id1' />
@@ -138,11 +141,11 @@ Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basa
 ================================================================
 <div id='id3' />
 
-## Sección 3: Guía rápida introductoria Github📋
+## Sección 3: Guía rápida introductoria Github💻
 
 <div id='id4' />
 
-### 3.1 Comandos básicos y recursos de apoyo en línea📁
+### 3.1 Comandos básicos y recursos de apoyo en línea📋
 
 Git es una plataforma que permite mejorar la eficiencia en la construcción de un código en conjunto con más colaboradores.
 
@@ -212,7 +215,7 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
 <div id='id5' />
 
-### 3.2 Síntesis de buenas prácticas en la industria📁 
+### 3.2 Síntesis de buenas prácticas en la industria🧰 
 
 _ISO 14064:2006:_ Contiene 3 partes y un conjunto de criterios para la contabilización y verificación de GEI. Las normas definen las mejores prácticas internacionales en la gestión, reporte y verificación de datos e información referidos a GEI. El uso de enfoques normalizados para la contabilización y verificación de datos de emisión aseguran que una tonelada de CO2, por ejemplo, sea siempre la misma, donde sea que se emita o se acumule
 
@@ -237,18 +240,56 @@ Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: 
 
 ¡Y verás como tu eficiencia energética y el impacto ambiental mejorará!
 
+<div id='id6' />
+
+### 3.3 Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA🔨
 
 
+<div id='id7' />
 
-[Link](url) and ![Image](src)
-```
+## Sección 4: Referencias consultadas📥
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[1] Softek. (s.f.) Company Overview. Recuperado el 28 de Octubre 2020 de: https://www.softtek.com/about/company-overview
 
-### Jekyll Themes
+[3] Softek (2017) Comunicado de prensa. Softtek añade nuevas capacidades para soluciones inteligentes de gestión de energía y abre un Centro de Investigación en Barcelona. Recuperado de: https://www.softtek.com/es/sala-de-prensa/comunicados-de-prensa/softtek-anade-nuevas-capacidades-para-soluciones-inteligentes-de-gestion-de-energia-y-abre-centro-de-investigacion-en-barcelona
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mari211/TC1001S/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[3] Softek. (s.f.) Blaulabs. Recuperado el 28 de Octubre 2020 de: https://www.softtek.com/digital-enablers/blaulabs
 
-### Support or Contact
+[4] Atomiton (2019) Industrial IoT. Recuperado el 28 de Octubre 2020 de:
+https://www.atomiton.com/#/home
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[5]Atomiton (s.f.) Atomiton Stack. Recuperado el 28 de Octubre 2020 de:
+https://www.atomiton.com/#/products/atomiton-stack
+
+[6] Disneyworld (s.f.) MagicBands y tarjetas: preguntas frecuentes. Recuperado el 28 de Octubre 2020 de: https://disneyworld.disney.go.com/es-mx/faq/bands-cards/understanding-magic-band/
+
+[7] Disneyworld (s.f.) My Disney Experience. Recuperado el 28 de Octubre 2020 de: https://disneyworld.disney.go.com/es-us/plan/my-disney-experience/bands-cards/
+
+[8] Disneyworld (s.f.) Privacidad y Legalidad. Recuperado el 28 de Octubre 2020 de: https://disneyworld.disney.go.com/es-mx/help/privacy-legal/
+
+[9] Metalmecánica (2018) Hyundai Technology, automóviles conectados y el IoT. Recuperado el 28 de Octubre del 2020 de http://www.metalmecanica.com/temas/El-futuro-del-Internet-de-las-cosas-y-los-automoviles-conectados+126117
+
+[10] Tesla (2016) Support. Recuperado el 28 de Ocutbre 2020 de: https://www.tesla.com/es_ES/videos/autopilot-self-driving-hardware-neighborhood-long
+
+[11] Hyundai Motor Group (2018, noviembre 22). Hyundai Motor Group Future Technology - IoT. Recuperado el 28 de Octubre del 2020 de https://news.hyundaimotorgroup.com/Video/Hyundai-Motor-Group-Future-Technology-IoT
+
+
+[12] Disney (s.f.) Magic Band. Recuperado el 28 de Octubre 2020 de: https://wdpromedia.disney.go.com/media/wdpro-assets/help/faq/faqs/pdf/GetApplicationAttachment.pdf
+
+[15] Loureiro, R. (2015) Estudio plataformas IoT. Recuperado de: http://openaccess.uoc.edu/webapps/o2/bitstream/10609/42812/6/rloureiroTFC0615memoria.pdf
+
+[16] Microsoft Azure. (s.f.) ¿Qué es el SaaS? Recuperado el 29 de Octubre 2020: https://azure.microsoft.com/es-mx/overview/what-is-saas/#:~:text=SaaS%20ofrece%20una%20soluci%C3%B3n%20de,normalmente%20con%20un%20explorador%20web.
+
+[17] Mudarra, F. y López, J. (2018) Demostrador de internet of things con la tecnología IEEE. Recuperado de: http://openaccess.uoc.edu/webapps/o2/bitstream/10609/80585/4/fmudarraTFM0618memoria.pdf
+
+[18] Global Footprint Network. (2020, August 4). Measure what you treasure. https://www.footprintnetwork.org/
+
+[19] Lim, A. (2018, December 27). What Is Ecological Footprint? Definition and How to Calculate It. ThoughtCo. https://www.thoughtco.com/what-is-ecological-footprint-4580244
+
+[20] WWF UK. (n.d.). WWF Footprint Calculator. WWF. Retrieved August 18, 2020, from https://footprint.wwf.org.uk/#/
+
+[21] Ihobe. (2009) Análisis de ciclo de vida y huella de carbono. Recuperado de: http://www.comunidadism.es/wp-content/uploads/downloads/2012/10/PUB-2009-033-f-C-001_analisis-ACV-y-huella-de-carbonoV2CAST.pdf
+
+[22] Schneider, H. y Samaniego, J. (2010) La huella del carbono en la producción, distribución y consumo de bienes y servicios. Recuperado de: https://repositorio.cepal.org/bitstream/handle/11362/3753/S2009834_es.pdf
+
+[23] OMS. (2008) La reducción de su huella de carbono puede ser buena para su salud. Recuperado de: https://www.who.int/world-health-day/toolkit/annexe%201-S.pdf
