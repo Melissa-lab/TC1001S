@@ -124,11 +124,12 @@ Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basa
 Git es una plataforma que permite mejorar la eficiencia en la construcción de un código en conjunto con más colaboradores.
 
 - Instalación:
-Si tienes Windows se utiliza el siguiente link: https://windows.github.com
 
-Si tienes MAC se utiliza el siguiente link: https://mac.github.com
+  * Si tienes Windows se utiliza el siguiente link: https://windows.github.com
 
-General: https://git-scm.com
+  * Si tienes MAC se utiliza el siguiente link: https://mac.github.com
+
+  * General: https://git-scm.com
 
 
 - Básicos:
