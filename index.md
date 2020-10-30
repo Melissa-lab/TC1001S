@@ -6,7 +6,7 @@
     <td><a href="#Sección 1: Empresas identificadas con modelos IoT🏢">Sección 1: Empresas identificadas con modelos IoT🏢</a></td>
   </tr>
   <tr>
-    <td><a href="#Sección 2: Modelo IoT seleccionado💡">Sección 2: Modelo IoT seleccionado💡</a></td>
+    <td><a href="#Sección 2: Modelo IoT seleccionado💡"> Sección 2: Modelo IoT seleccionado💡</a></td>
   </tr>
   <tr>
     <td><a href="#Sección 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
