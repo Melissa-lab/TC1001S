@@ -245,11 +245,6 @@ Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: 
 
 ### 3.3 Video, párrafo explicativo, y archivos APK y AIA🔨
 
-<iframe width="420" height="345" src="https://youtu.be/DDv-Pgs7l5w">
-</iframe>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DDv-Pgs7l5w" target="_blank"><img src="http://img.youtube.com/vi/DDv-Pgs7l5w/0.jpg"alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 [![IMAGE](http://img.youtube.com/vi/DDv-Pgs7l5w/0.jpg)](http://www.youtube.com/watch?v=DDv-Pgs7l5w)
 
 <div id='id7' />
