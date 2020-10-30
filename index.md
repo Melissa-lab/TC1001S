@@ -11,12 +11,12 @@
   <tr>
     <td><a href="#Sección 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
   </tr>
-    <tr>
-      <td><a href="3.1 Comandos básicos y recursos de apoyo en línea📁">3.1 Comandos básicos y recursos de apoyo en línea📁</a></td>
-    </tr>
-    <tr>
-      <td><a href="3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 ">3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 </a></td>
-    </tr>
+  <tr>
+    <td><a href="3.1 Comandos básicos y recursos de apoyo en línea📁">3.1 Comandos básicos y recursos de apoyo en línea📁</a></td>
+  </tr>
+  <tr>
+    <td><a href="3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 ">3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 </a></td>
+  </tr>
 </table>
 
 **Índice**
