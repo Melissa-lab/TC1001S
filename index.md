@@ -13,6 +13,12 @@
   </tr>
 </table>
 
+**Índice**
+1. [Parte 1: Empresas identificadas con modelos IoT🏢](#id1)
+2. [Parte 2: Modelo IoT seleccionado💡](#id2)
+
+
+<div id='id1' />
 ## Parte 1: Empresas identificadas con modelos IoT🏢
 
 --------------------------
@@ -106,7 +112,7 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 ![Image](https://www.hyundai.com/content/hyundai/ww/data/news/data/2019/0000016331/image/01.jpg)
 
 ============================================================
-
+<div id='id2' />
 ## Parte 2: Modelo IoT seleccionado💡
 
 --------------------------
