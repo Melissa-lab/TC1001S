@@ -3,9 +3,13 @@
 | Índice |
 --------
 | [Sección 1: Empresas identificadas con modelos IoT🏢](#id1) |
+
 | [Sección 2: Modelo IoT seleccionado💡](#id2) |
+
 | [Sección 3: Guía rápida introductoria Github📋](#id3)|
+
 | [3.1 Comandos básicos y recursos de apoyo en línea📁](#id4) |
+
 | [3.2 Síntesis de buenas prácticas en la industria📁 ](#id5) |
   
 
