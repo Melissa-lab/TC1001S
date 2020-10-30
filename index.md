@@ -11,7 +11,6 @@
   <tr>
     <td><a href="#Sección 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
   </tr>
-  <tr>
 </table>
 
 **Índice**
