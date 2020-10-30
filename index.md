@@ -94,6 +94,27 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 
 ## Parte 2: Modelo IoT seleccionado
 
+_BlauLabs - Empresa Softek_
+
+**a) ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?**
+Después de reevaluar por segunda ocasión consideramos que el modelo IoT que más aporte brindaba por su propuesta de valor fue Blaulabs ya que permite tener una mejor gestión de los servicios básicos como agua, luz y gas.
+
+**b) ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?**
+Los usuarios son principalmente familias pues son modelos que favorecen a la gestión de los servicios del hogar, no obstante también se encontró que puede ser aplicado para empresas/industrias al hacerles ahorro de gastos y en comunidades con visión a llegar a convertirse en ciudades inteligentes. 
+
+**c) ¿Cuál es la propuesta de valor para estos públicos?**
+Permite mejorar la administración de servicios a través del análisis de datos de la nube y se vuelve pieza clave para el desarrollo sustentable y el progreso de una mejor cultura ambiental.
+
+**d) ¿Cuál es el proceso que involucra a estos públicos?**
+Todo el monitoreo y recolección de datos la hacen por medio de sensores como válvulas, bombas o lectores que se integran en el edificio o inmueble; esto se pasa a la nube donde se realiza su análisis para convertirlo es estadísticas o gráficos más entendibles para el usuario que es cuando entra en acción visualizando los resultados y las soluciones que proporciona para su aplicación y lograr reducir costes.
+
+**e) ¿Qué datos se generan y registran durante este proceso?**
+Los datos que se registran son acerca de energía, gas y el consumo de agua y proporciona gráficos de costos, indicadores, consumo, etc. Asimismo, no solo proporciona esta información, sino también tiene integrados sistemas de alertas.
+
+**f) ¿Qué estándares están implicados en este modelo y cómo se usan?**
+Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basadas en la nube, el usuario requiere de internet para su visualización en la app y más fácilmente del uso de la API.13 Por esa misma razón, el proveedor tiene acceso a los datos del cliente, no obstante cuenta con tales términos y condiciones referentes a la información proporcionada, además de las políticas de privacidad para la confidencialidad de los datos.14 En cuestión de la API basada en REST que permite usar lenguajes de Python y Java tiene ciertos lineamientos/estándares basados en la web, así como en el uso de HTTP para intercambiar información.15 
+
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
