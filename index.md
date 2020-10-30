@@ -2,15 +2,11 @@
 
 Índice
 --------
-1. [Sección 1: Empresas identificadas con modelos IoT🏢](#id1)
-
-2. [Sección 2: Modelo IoT seleccionado💡](#id2)
-
-3. [Sección 3: Guía rápida introductoria Github📋](#id3)
-
-3.1. [Comandos básicos y recursos de apoyo en línea📁](#id4)
-
-3.2. [Síntesis de buenas prácticas en la industria para el uso de git y commit📁 ](#id5)
+[Sección 1: Empresas identificadas con modelos IoT🏢](#id1)
+[Sección 2: Modelo IoT seleccionado💡](#id2)
+[Sección 3: Guía rápida introductoria Github📋](#id3)
+[3.1 Comandos básicos y recursos de apoyo en línea📁](#id4)
+[3.2 Síntesis de buenas prácticas en la industria📁 ](#id5)
   
 
 <div id='id1' />
@@ -212,12 +208,13 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
 <div id='id5' />
 
-### 3.2 Síntesis de buenas prácticas en la industria para el uso de git y commit📁 
+### 3.2 Síntesis de buenas prácticas en la industria📁 
 
 _ISO 14064:2006:_ Contiene 3 partes y un conjunto de criterios para la contabilización y verificación de GEI. Las normas definen las mejores prácticas internacionales en la gestión, reporte y verificación de datos e información referidos a GEI. El uso de enfoques normalizados para la contabilización y verificación de datos de emisión aseguran que una tonelada de CO2, por ejemplo, sea siempre la misma, donde sea que se emita o se acumule
 
 _ISO 14065:2007:_ La norma “ISO 14065:2007: Greenhouse gases -- Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition”, ha sido desarrollada para asegurar los procesos de verificación y validación, y define requisitos para aquellas organizaciones que realicen validaciones o verificaciones de GEI. Estas organizaciones pueden realizar verificaciones de datos gestionados según la norma ISO 14064-3 o según otros criterios específicos tales como esquemas de comercio de emisiones o normas corporativas.
 
+La media mundial de 4 toneladas por persona, de 0.54 toneladas por año de CO2 por consumo de energía en hogares por persona.
 
 
 
