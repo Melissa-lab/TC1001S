@@ -245,6 +245,7 @@ Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: 
 
 ### 3.3 Video, párrafo explicativo, y archivos APK y AIA🔨
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtu.be/DDv-Pgs7l5w/0.jpg)](https://youtu.be/DDv-Pgs7l5w)
 
 <div id='id7' />
 
