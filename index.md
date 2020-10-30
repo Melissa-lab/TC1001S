@@ -245,9 +245,37 @@ Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: 
 
 ### 3.3 Video, párrafo explicativo, y archivos APK y AIA🔨
 
+
 <iframe width="560" height="315" src="https://youtu.be/DDv-Pgs7l5w"  allowfullscreen></iframe>
 
+
 [![IMAGE](http://img.youtube.com/vi/DDv-Pgs7l5w/0.jpg)](http://www.youtube.com/watch?v=DDv-Pgs7l5w)
+
+DatAmb es una aplicación que ofrece un servicio con enfoque en el registro del consumo de energía anual. Trabaja con una base de datos que genera un cálculo de los gastos monetarios y de KWh, además de la huella de carbono con el objetivo de analizar y hacer conciencia sobre el impacto económico y ambiental. 
+
+Los requerimientos esenciales para el uso de la aplicación es tener acceso a internet y a los últimos seis/cuatro archivos de los recibos de luz dependiendo el periodo en que los recibas. 
+
+La App funciona de la siguiente manera:
+
+1. Ingresas 
+
+2. Seleccionas el tipo de periodo en el que el recibo de electricidad llega a tu hogar
+
+3. Comienzas a vaciar la información de los recibos de luz colocando el gasto monetario y de energía
+
+4. Le das siguiente
+
+5. Te desplegará el gasto y el consumo de energía total
+
+6. Te solicitará la cantidad de personas que habitan en tu casa
+
+7. Con ello te generará tu huella de carbono individual anexando la huella promedio por persona mundial y la ideal. Todas ellas con unidades de toneladas de CO2 al 
+
+8. año con enfoque únicamente en la huella que genera el consumo de energía en el hogar.
+
+9. Aunado a esto, te despliega una serie de soluciones aplicadas a la reducción de consumo de energía.
+
+Por ello, el hacer uso de la aplicación te permite reevaluar tu consumo, con el fin de cambiar tus hábitos y generar mayor conciencia sobre tu impacto. Con ello, se logra obtener una eficiencia energética más óptima, se promueve una cultura ambiental y de ahorro, así como permite tener una reducción de la huella de carbono.
 
 <div id='id7' />
 
