@@ -266,6 +266,7 @@ Por ello, el hacer uso de la aplicación te permite reevaluar tu consumo, con el
 
 <div id='id7' />
 
+================================================================
 ## Sección 4: Referencias consultadas📥
 
 [1] Softek. (s.f.) Company Overview. Recuperado el 28 de Octubre 2020 de: https://www.softtek.com/about/company-overview
