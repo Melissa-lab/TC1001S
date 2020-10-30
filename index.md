@@ -3,26 +3,13 @@
 <table>
   <caption><h2>Índice</h2></caption>
   <tr>
-    <td><a href="#Sección 1: Empresas identificadas con modelos IoT🏢">Sección 1: Empresas identificadas con modelos IoT🏢</a></td>
+    <td><a href="#Seccion 1: Empresas identificadas con modelos IoT🏢">Sección 1: Empresas identificadas con modelos IoT🏢</a></td>
   </tr>
   <tr>
-    <td><a href="#Sección 2: Modelo IoT seleccionado💡"> Sección 2: Modelo IoT seleccionado💡</a></td>
+    <td><a href="#Seccion 2: Modelo IoT seleccionado💡"> Sección 2: Modelo IoT seleccionado💡</a></td>
   </tr>
   <tr>
-    <td><a href="#Sección 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
-  </tr>
-</table>
-
-<table>
-  <caption><h2>Tabla de contenidos</h2></caption>
-  <tr>
-    <td><a href="#Sección 1: Empresas identificadas con modelos IoT🏢">Sección 1: Empresas identificadas con modelos IoT🏢</a></td>
-  </tr>
-  <tr>
-    <td><a href="# Sección 2: Modelo IoT seleccionado💡">Sección 2: Modelo IoT seleccionado💡</a></td>
-  </tr>
-  <tr>
-    <td><a href="#Sección 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
+    <td><a href="#Seccion 3: Guía rápida introductoria Github📋">Sección 3: Guía rápida introductoria Github📋</a></td>
   </tr>
 </table>
 
@@ -33,7 +20,7 @@
 
 <div id='id1' />
 
-## Sección 1: Empresas identificadas con modelos IoT🏢
+## Seccion 1: Empresas identificadas con modelos IoT🏢
 
 --------------------------
 
