@@ -1,9 +1,14 @@
 # Creación de una Aplicación - Iot
 ## Parte 1: Empresas identificadas con modelos IoT
+--------------------------
+Integrante: Melissa Aldana
+Empresa: Softek
+--------------------------
+Una empresa de tecnología especializada en brindar servicios de desarrollo de software y TI tiene su sede en México, pero también abarca otras regiones de Asia, Europa y América Latina.1 
 
-You can use the [editor on GitHub](https://github.com/mari211/TC1001S/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+El modelo IoT presentado en 2017 está basado en una app “Softek BlauLabs” un centro de investigación que trabaja en el análisis de datos para generar soluciones pre-configuradas con enfoque en sustentabilidad.2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La problemática que resuelve la app es el monitoreo en tiempo real del uso y gasto de los servicios públicos como agua, gas, energía eléctrica, etc. con el fin de brindar estadísticas que permitan evaluar cuándo y en qué se genera mayor desperdicio y aplicar las soluciones que brinda el sistema ante ello. La propuesta de valor de esto es que permite una mejor gestión y administración de energía y el resto de los recursos tanto en empresas, industrias como hogares: “blauLabs tiene un historial de ayudar a clientes a producir ahorros entre el 10 y el 25% en su gasto anual en servicios públicos.”2 (Softek, 2017)
 
 ### Markdown
 
