@@ -12,7 +12,7 @@
 
 [3.2 Síntesis de buenas prácticas en la industria🧰](#id5)
 
-[3.3 Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA🔨](#id6)
+[3.3 Video, párrafo explicativo, y archivos APK y AIA🔨](#id6)
 
 [Sección 4: Referencias📥](#id7)
   
@@ -222,7 +222,7 @@ _ISO 14064:2006:_ Contiene 3 partes y un conjunto de criterios para la contabili
 
 _ISO 14065:2007:_ La norma “ISO 14065:2007: Greenhouse gases -- Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition”, ha sido desarrollada para asegurar los procesos de verificación y validación, y define requisitos para aquellas organizaciones que realicen validaciones o verificaciones de GEI. Estas organizaciones pueden realizar verificaciones de datos gestionados según la norma ISO 14064-3 o según otros criterios específicos tales como esquemas de comercio de emisiones o normas corporativas.
 
-![Image](https://lh3.googleusercontent.com/Zrjc5fvFhvIwdi4HKDlxOovDGn38R6A30HtF4m4SC1hdRjYKNoBz57ibWFd3IC7BTLu0=s106)
+![Image](https://lh3.googleusercontent.com/t67Xz3HHJrCqH30jBHpXxj_OPpCFsY2DO3rTo9j9bWiHxxlhIB70I5-uyddKJixvH6o8=s106)
 
 ![Image](https://lh3.googleusercontent.com/3baXAASGHGb66Nv7gcPR0MOtK70cCkw2ZP0_s6ai71yCdzTUouWxXz1f0YAT36uREQmHEg=s170)
 
@@ -243,7 +243,7 @@ Lo que puedes hacer para reducir tu emisión es aplicar las siguientes medidas: 
 
 <div id='id6' />
 
-### 3.3 Video demostrativo, párrafo explicativo, y archivos descargables APK y AIA🔨
+### 3.3 Video, párrafo explicativo, y archivos APK y AIA🔨
 
 
 <div id='id7' />
